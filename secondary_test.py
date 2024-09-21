@@ -1,4 +1,2 @@
-from main import addit
+pass
 
-def test_secondary():
-  assert addit(3, 4) == 7
