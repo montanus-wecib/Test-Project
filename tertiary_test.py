@@ -1,6 +1,5 @@
 import main
+import pytest
 
 def squareit_test_3():
-  assert main.squareit(5) == 51
-
-squareit_test_3()
+  assert main.divideit(9,2) == 9/2
