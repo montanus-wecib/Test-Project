@@ -1,4 +1,4 @@
-from main import squareit
+from main import addit
 
-def squareit_test_2():
-  assert squareit(3) == 9
+def test_secondary():
+  assert addit(3, 4) == 7
