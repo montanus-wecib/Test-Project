@@ -7,3 +7,6 @@ def key():
 
 def test_1(key):
     assert key
+
+def test_2(key):
+    assert isinstance(key, tuple)
