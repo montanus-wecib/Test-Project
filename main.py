@@ -1,2 +1,2 @@
-def squareit(num):
-  return num ** 2
+def testo(num):
+    return num, num ** 2, num ** 3
