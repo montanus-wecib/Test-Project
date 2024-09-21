@@ -1,4 +1,4 @@
 import main
 
 def test_main():
-  assert main.squareit(2) == 4
+  assert main.squareit(2) == 6
