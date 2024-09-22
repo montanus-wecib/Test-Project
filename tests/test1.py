@@ -6,9 +6,6 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import main  # Now you can import main
-
-
-from .. import main
 import pytest
 
 @pytest.fixture
